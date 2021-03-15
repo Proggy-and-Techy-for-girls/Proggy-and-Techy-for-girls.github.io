@@ -1,0 +1,28 @@
+body {
+    background: #e700ff;
+    color: #fff;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.brackets {
+    font-size: 72pt;
+    font-weight: 100;
+    letter-spacing: 6px;
+}
+
+header {
+    background: #e700ff;
+    margin: 0 auto;
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -54px;
+    margin-top: -72pt;
+   
+}
+
+.content {
+    padding: 10px;
+}
